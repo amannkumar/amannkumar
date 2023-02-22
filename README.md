@@ -29,3 +29,5 @@ a href="">
 
 <br></br>
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannkumar&show_icons=true&hide_border=true&count_private=true&theme=dark)
+
+![Chart not found](https://raw.githubusercontent.com/amannkumar/amannkumar/master/charts/bar_graph.png) 
