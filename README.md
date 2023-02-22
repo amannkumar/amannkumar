@@ -3,6 +3,7 @@
 a href="">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>\-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <a href="https://www.linkedin.com/in/amank1030/">
   <img align="left" alt="Aman's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -17,7 +18,6 @@ a href="">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amannkumar.amannkumar)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on a few flutter projects.
 - 🌱 I’m currently learning Node JS
