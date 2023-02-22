@@ -28,11 +28,13 @@ a href="">
 - ⚡ Fun fact: The first oranges🍊 weren't orange.
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amannkumar&" alt="amannkumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amannkumar&show_icons=true&locale=en&theme=tokyonight" alt="amannkumar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannkumar&show_icons=true&locale=en&layout=compact" alt="amannkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amannkumar&&theme=tokyonight" alt="amannkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amannkumar&show_icons=true&locale=en" alt="amannkumar" /></p>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amannkumar&&theme=xcode)](https://github.com/amannkumar)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannkumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amannkumar" /></p>
 
 
 
