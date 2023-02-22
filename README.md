@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I,m Aman
 <!--- TODO Add followers when >50
-a href="https://twitter.com/_sifrant">
+a href="">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>\-->
-<a href="https://www.https://www.linkedin.com/in/amank1030/">
-  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/amank1030/">
+  <img align="left" alt="Aman's Linkdein" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <!--- TODO Add followers when >50
-<a href="https://bharatksharma.medium.com">
-  <img align="left" alt="Bharat's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="">
+  <img align="left" alt="Aman's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 -->
+<a href="https://www.leetcode.com/amannkumar/">
+  <img align="left" alt="Bharat's LeetCode" width="22px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amannkumar.amannkumar)
 
