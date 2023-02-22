@@ -16,6 +16,7 @@ a href="">
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amannkumar.amannkumar)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154175%20lines%20of%20code-blue)
 
 - 🔭 I’m currently working on a few flutter projects.
 - 🌱 I’m currently learning Node JS
@@ -30,4 +31,4 @@ a href="">
 <br></br>
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannkumar&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
-![Chart not found](https://raw.githubusercontent.com/amannkumar/amannkumar/master/charts/bar_graph.png) 
+
