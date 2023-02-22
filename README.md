@@ -1,14 +1,16 @@
 ### Hi there 👋
-
+<!--- TODO Add followers when >50
 a href="https://twitter.com/_sifrant">
-  <img align="left" alt="Bharat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>\-->
+<a href="https://www.https://www.linkedin.com/in/amank1030/">
+  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bharat-sharma-1809/">
-  <img align="left" alt="Bharat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<!--- TODO Add followers when >50
 <a href="https://bharatksharma.medium.com">
   <img align="left" alt="Bharat's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amannkumar.amannkumar)
 
