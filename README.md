@@ -4,7 +4,7 @@ a href="">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>\-->
 <a href="https://www.linkedin.com/in/amank1030/">
-  <img align="left" alt="Aman's Linkdein" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Aman's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <!--- TODO Add followers when >50
 <a href="">
