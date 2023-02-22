@@ -12,7 +12,7 @@ a href="">
 </a>
 -->
 <a href="https://www.leetcode.com/amannkumar/">
-  <img align="left" alt="Bharat's LeetCode" width="22px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img align="left" alt="Bharat's LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amannkumar.amannkumar)
@@ -24,7 +24,7 @@ a href="">
 - 💬 Ask me about anything
 - 📫 How to reach me: amannkumar3895@gmail.com
 - ⚡ Fun fact: The first oranges🍊 weren't orange.
--->
+
 
 
 <br></br>
